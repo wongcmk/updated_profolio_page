@@ -4,26 +4,12 @@
 
 Resume of Cynthia Yim
 
-[Resume](http://startbootstrap.com/themes/resume/) is a resume and CV theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
-
-## Preview
-
-[![Resume Preview](https://startbootstrap.com/assets/img/screenshots/themes/resume.png)](https://blackrockdigital.github.io/startbootstrap-resume/)
-
-
 ## About
 
 Start Bootstrap is an open source library of free Bootstrap themes and templates. All of the free themes and templates on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
 - <https://startbootstrap.com>
 - <https://twitter.com/SBootstrap>
-
-Start Bootstrap was created by and is maintained by **[Cynthia Yim](http://wongcmk.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-- <http://wongcmk.io>
-- <https://github.com/wongcmk>
-
-Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
 
 ### Updated Portfolio
